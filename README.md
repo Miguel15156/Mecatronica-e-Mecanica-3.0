@@ -12,7 +12,7 @@
 
 | Item | Detalhes |
 | :--- | :--- |
-| **Curso** | Mecânica e Mecatrônica |
+| **Curso** | Mecatrônica |
 | **Tema** | Mecânica e Mecatrônica |
 | **Local / Laboratório** | Sala 104 |
 
